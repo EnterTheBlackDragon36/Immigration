@@ -52,12 +52,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EnterpriseClassLibrary\EnterpriseClassLibrary\EnterpriseClassLibrary.csproj">
-      <Project>{008573fb-7c14-4020-8b11-e5e6f48905e0}</Project>
-      <Name>EnterpriseClassLibrary</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Folder Include="Connections\" />
     <Folder Include="Interface\" />
   </ItemGroup>
